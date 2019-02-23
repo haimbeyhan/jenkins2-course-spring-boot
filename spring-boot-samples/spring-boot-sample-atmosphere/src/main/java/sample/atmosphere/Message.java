@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-mackage sample.atmosphere;
+package sample.atmosphere;
 
 import java.util.Date;
 
